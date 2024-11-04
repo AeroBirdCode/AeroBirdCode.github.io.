@@ -1,7 +1,12 @@
 
 # Hello! I'm AeroBird 👋
 
-🚀 Aerospace engineering student | 🐦 Bird-inspired coder | 🌐 Software Engineer with a passion for UAVs
+🚀 Aspiring Aerospace Engineer | 🐦 Bird-inspired coder | 🌐 Software Engineer with a passion for UAVs
+
+I'm a junior studying aerospace and aeronautical engineering, and I love technology and flying! When I'm not studying or implementing aerodynamic laws, 
+I like to make softwares that draws inspiration from the beauty of the nature. Come along with me as I bridge the gap between software engineering and aerospace engineering 
+to create a better future that is tech-driven. 
+
 
 ### 🌟 Current Projects
 - **RC Plane Build**: Designing an automnomous RC plane using Solidworks, XLR5 and Javafoil.
