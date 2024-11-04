@@ -1,4 +1,3 @@
-# AeroBirdCode.github.io.
 
 # Hello! I'm AeroBird 👋
 
