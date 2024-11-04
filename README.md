@@ -1,7 +1,7 @@
 
 # Hello! I'm AeroBird 👋
 
-🚀 Aerospace engineering enthusiast | 🐦 Bird-inspired coder | 🌐 Software Engineer with a passion for UAVs
+🚀 Aerospace engineering student | 🐦 Bird-inspired coder | 🌐 Software Engineer with a passion for UAVs
 
 ### 🌟 Current Projects
 - **RC Plane Build**: Designing an automnomous RC plane using Solidworks, XLR5 and Javafoil.
@@ -16,14 +16,15 @@
 - **Areas of Expertise**: UAV design, Aerodynamics, Machine Learning, DSA, GUI
 
 ### 🛠️ Featured Projects
--**Heat Transfer Program**: A python GUI program that calcuates advanced heat transfer with different modes and shapes. 
-- **Rocket Nosecone Design**: A SolidWorks project focused on designing a rocket nosecone optimizing perfomance
+- **Heat Transfer Calculator**: A python GUI program that calcuates advanced heat transfer with different modes and shapes. 
+- **Rocket Nosecone Design**: A SolidWorks project focused on designing a rocket nosecone optimizing perfomance.
 - **Advanced Drone Designs**: Implemented UAV design and aerodynamics studies as a team project.
+- **Market Reasearch**: Conducted a market reaserch study on the secret behind successful business. 
 
 
 ### 🎯 Goals
 - **Short-Term**: Gain deeper knowledge in AI for aerospace and enhance my predictive modeling skills.
-- **Long-Term**: Pursue an MS or PhD, aiming for an impactful career that bridges aerospace and AI technology.
+- **Long-Term**: Pursue an MS or PhD aiming for an impactful career that bridges aerospace and AI technology.
 - **Tech Community Impact**: I aspire to contribute to and shape the tech community in my country over the next decade.
 
   
